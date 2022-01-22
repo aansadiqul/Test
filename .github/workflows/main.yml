@@ -22,4 +22,4 @@ jobs:
       with:
         args: deploy --only hosting
       env:
-        FIREBASE_SERVICE_ACCOUNT_HSPA_C3967: ${{ secrets.FIREBASE_TOKEN }}
+        FIREBASE_SERVICE_ACCOUNT_HSPA_C3967: 1//0g_NJphrXe_LECgYIARAAGBASNwF-L9IrFP-oe1HzZPY_HWDdOVU9fDCj-tIujWYTE89_UKPXRbHZS2S8U1z0NOWiOWkNqHPdWpo
